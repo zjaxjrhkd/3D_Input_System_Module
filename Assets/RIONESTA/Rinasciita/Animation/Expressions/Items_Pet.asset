@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Items_Pet
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: a43e1ea1621b79f4d8ef83087d8621e0, type: 2}
+  controls:
+  - name: Pet toggle
+    icon: {fileID: 2800000, guid: 1bafe1a17bf5d514fbf02fff20026c4a, type: 3}
+    type: 102
+    parameter:
+      name: PetToggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: CookieToggleNomal
+    icon: {fileID: 2800000, guid: 38a734b97d7a32a42bae6d0141c5ee97, type: 3}
+    type: 102
+    parameter:
+      name: CookieToggleNomal
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: CookieToggleRainbow
+    icon: {fileID: 2800000, guid: 96f11418e81a09245a62d7d1dc11ac49, type: 3}
+    type: 102
+    parameter:
+      name: CookieToggleRainbow
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: PositionHand
+    icon: {fileID: 2800000, guid: a0bcd0c429f6c9f40b4fabda0ccd6050, type: 3}
+    type: 102
+    parameter:
+      name: RPetPosition
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: PositionGround
+    icon: {fileID: 2800000, guid: a170e305e485a194289f66a3ca49013d, type: 3}
+    type: 102
+    parameter:
+      name: RPetPosition
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

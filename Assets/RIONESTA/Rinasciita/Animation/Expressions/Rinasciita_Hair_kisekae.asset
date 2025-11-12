@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Rinasciita_Hair_kisekae
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: a43e1ea1621b79f4d8ef83087d8621e0, type: 2}
+  controls:
+  - name: Side tail_L
+    icon: {fileID: 2800000, guid: 4e511f8e2e54ef743b0b061b12f9485c, type: 3}
+    type: 102
+    parameter:
+      name: Side tail_L
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Side tail_R
+    icon: {fileID: 2800000, guid: 4e511f8e2e54ef743b0b061b12f9485c, type: 3}
+    type: 102
+    parameter:
+      name: Side tail_R
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Kemo
+    icon: {fileID: 2800000, guid: 097beaeebf8b1b74b91a797266fa2b6a, type: 3}
+    type: 102
+    parameter:
+      name: Kemo
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hair ribbon_L
+    icon: {fileID: 2800000, guid: 9bffe226d075e404caf3d3e203804dfe, type: 3}
+    type: 102
+    parameter:
+      name: Hair ribbon_L
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hair ribbon_R
+    icon: {fileID: 2800000, guid: 9bffe226d075e404caf3d3e203804dfe, type: 3}
+    type: 102
+    parameter:
+      name: Hair ribbon_R
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Rinasciita_Option
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: a43e1ea1621b79f4d8ef83087d8621e0, type: 2}
+  controls:
+  - name: Blink
+    icon: {fileID: 2800000, guid: 93ca63006d335024bac16ecd572b72bf, type: 3}
+    type: 102
+    parameter:
+      name: Eye blink Animation
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Head_NadeNade
+    icon: {fileID: 2800000, guid: 8b8bedab6fb1d8043ab9670257c4d21a, type: 3}
+    type: 102
+    parameter:
+      name: Menu_Head_NadeNade
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Cheeks_NadeNade
+    icon: {fileID: 2800000, guid: cc721c7bdedc4fb4c831b596ed327ded, type: 3}
+    type: 102
+    parameter:
+      name: Menu_Cheeks_NadeNade
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: kemo Animation
+    icon: {fileID: 2800000, guid: eb846147f68c72649b59b2bc822301e7, type: 3}
+    type: 102
+    parameter:
+      name: kemo Animation
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: MoguMogu
+    icon: {fileID: 2800000, guid: 774403b735fcd0c44bc2d23395c49ead, type: 3}
+    type: 102
+    parameter:
+      name: MoguMogu Animation
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Particles
+    icon: {fileID: 2800000, guid: b295709c861030249bc6a019fb4f1ba1, type: 3}
+    type: 102
+    parameter:
+      name: Particles
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
